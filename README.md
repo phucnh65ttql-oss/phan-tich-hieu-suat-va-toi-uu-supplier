@@ -11,7 +11,7 @@
 - **Machine Learning:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)
 - **Môi trường phát triển:** Google Colab / Jupyter Notebook
 
-## 📂 Cấu trúc thư mục dự án trong Repository
+# Cấu trúc thư mục dự án trong Repository
 - `Bảng báo cáo nhóm môn Phân tích số liệu và kinh doanh thông minh.docx`: File văn bản báo cáo chi tiết toàn bộ 5 chương.
 - `Baitapnhom.pbix`: File thiết kế 3 trang Dashboard điều hành logistics.
 - `ptsl.ipynb`: File mã nguồn Python huấn luyện mô hình Logistic Regression và Random Forest (Độ chính xác đạt 85.79%).
